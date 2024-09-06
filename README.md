@@ -1,4 +1,4 @@
-<h1>Recipe Collection Website Features</h1>
+<h1>Chef Savvy Recipe Website</h1>
     <h2>Rich and Diverse Recipe Collection</h2>
     <p>Our website offers an extensive collection of recipes spanning various cuisines, from traditional favorites to innovative dishes.</p>
     <ul>
